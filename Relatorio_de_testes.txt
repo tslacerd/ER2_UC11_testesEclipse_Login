@@ -1,0 +1,5 @@
+Report testes no site GameMania;
+
+Objetivo: Buscar por anomalias durante a operação de login;
+
+Não foram reportadas anomalias no funcionamento da aplicação durante a atividade de login.
